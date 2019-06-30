@@ -3,4 +3,4 @@
 
 Author: Moorissa Tjokro, Jager Hartman
 
-Link: http://moorissa.com/complaintsminer/
+Link: http://www.moorissatjokro.com/complaintsminer/
